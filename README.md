@@ -13,3 +13,5 @@ Saya Rafly Putra Santoso NIM 2100846 mengerjakan Tugas Praktikum 3 dalam mata ku
 - Komponen-komponen tersebut digabungkan ke dalam Motherboard.
 - Motherboard dan Peripheral kemudian digabungkan ke dalam Komputer.
 - Terakhir, program menampilkan informasi lengkap tentang Komputer
+
+##Screenshot CPP
