@@ -7,3 +7,9 @@ Saya Rafly Putra Santoso NIM 2100846 mengerjakan Tugas Praktikum 3 dalam mata ku
 
 
 ![Image](https://github.com/user-attachments/assets/d0cb4ab1-0b92-4891-9538-5d5f9fed6fd9)
+
+##Penjelasan alur
+- Program dimulai dengan membuat Class- class komponen komputer.
+- Komponen-komponen tersebut digabungkan ke dalam Motherboard.
+- Motherboard dan Peripheral kemudian digabungkan ke dalam Komputer.
+- Terakhir, program menampilkan informasi lengkap tentang Komputer
