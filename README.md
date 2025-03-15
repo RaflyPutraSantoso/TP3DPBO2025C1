@@ -15,3 +15,6 @@ Saya Rafly Putra Santoso NIM 2100846 mengerjakan Tugas Praktikum 3 dalam mata ku
 - Terakhir, program menampilkan informasi lengkap tentang Komputer
 
 ##Screenshot CPP
+
+
+![Image](https://github.com/user-attachments/assets/5bf4fbba-7829-4ab2-9669-707a34da2407)
